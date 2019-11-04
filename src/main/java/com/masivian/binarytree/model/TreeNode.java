@@ -10,6 +10,12 @@ import javax.persistence.ManyToOne;
 
 import lombok.Data;
 
+/**
+ * This class is the model than represents a Binary Tree
+ * @author cadolop@gmail.com
+ * @version 1.0
+ *
+ */
 @Entity
 @Data
 public class TreeNode {

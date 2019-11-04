@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.masivian</groupId>
 	<artifactId>binarytree</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>binarytree</name>
 	<description>Binary Tree</description>
 
@@ -65,6 +65,9 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<finalName>binarytree</finalName>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>

@@ -8,6 +8,12 @@ import org.springframework.boot.test.context.SpringBootTest;
 import com.masivian.binarytree.model.TreeNode;
 import com.masivian.binarytree.service.IBinaryTreeService;
 
+/**
+ * This class is the SpringBoot test
+ * @author cadolop@gmail.com
+ * @version 1.0
+ *
+ */
 @SpringBootTest
 class BinarytreeApplicationTests {
 	@Autowired

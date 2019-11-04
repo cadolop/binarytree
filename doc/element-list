@@ -1,0 +1,6 @@
+com.masivian.binarytree
+com.masivian.binarytree.controller
+com.masivian.binarytree.model
+com.masivian.binarytree.repository
+com.masivian.binarytree.service
+com.masivian.binarytree.service.impl
